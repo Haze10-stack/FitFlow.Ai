@@ -1,6 +1,6 @@
 <div align="center">
 
-# FitFlow.ai 🏃‍♂️🤖💪
+# FitFlow.ai <img width="40" height="40" alt="Group 1707485533" src="https://github.com/user-attachments/assets/1effbbcb-1f4a-4310-bc70-223a88c9963f" />
 
 [![Made with React](https://img.shields.io/badge/Frontend-React%2018-61DAFB?logo=react&logoColor=white)](https://react.dev)
 [![Vite](https://img.shields.io/badge/Bundler-Vite%206-646CFF?logo=vite&logoColor=white)](https://vitejs.dev)
@@ -13,7 +13,25 @@
 
 Smart AI-powered fitness companion with real‑time pose detection, gamified progress, personalized plans, and a community leaderboard. Built for speed, accessibility, and fun. ✨
 
+<img width="2143" height="3469" alt="Group 1707485530 (1)" src="https://github.com/user-attachments/assets/03af956d-4941-4162-963b-3db9408ab6f7" />
+
 </div>
+
+## 🧭 Table of Contents
+
+- [Highlights](#-highlights)
+- [Architecture](#-architecture)
+- [Tech Stack](#-tech-stack)
+- [Features](#-features)
+- [Getting Started](#-getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Environment Variables](#environment-variables)
+  - [Install & Run](#install--run)
+- [Available Pages](#-available-pages)
+- [API Overview](#-api-overview)
+- [Folder Structure](#-folder-structure)
+- [Troubleshooting](#-troubleshooting)
+- [Contributing](#-contributing)
 
 ---
 
@@ -30,49 +48,10 @@ Smart AI-powered fitness companion with real‑time pose detection, gamified pro
 
 ---
 
-## 📸 Quick Peek
-
-<div align="center">
-
-<img src="client/public/pushup.gif" height="140" alt="pushup" />
-<img src="client/public/pullup.gif" height="140" alt="pullup" />
-<img src="client/public/lunges.gif" height="140" alt="lunges" />
-<img src="client/public/bicep.gif" height="140" alt="bicep curls" />
-
-</div>
-
----
-
-## 🧭 Table of Contents
-
-- [Highlights](#-highlights)
-- [Quick Peek](#-quick-peek)
-- [Architecture](#-architecture)
-- [Tech Stack](#-tech-stack)
-- [Features](#-features)
-- [Getting Started](#-getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Environment Variables](#environment-variables)
-  - [Install & Run](#install--run)
-- [Available Pages](#-available-pages)
-- [API Overview](#-api-overview)
-- [Folder Structure](#-folder-structure)
-- [Troubleshooting](#-troubleshooting)
-- [Contributing](#-contributing)
-
----
-
 ## 🏗️ Architecture
 
-```
-client/ (React + Vite + Tailwind)
-  ↳ TensorFlow.js + MediaPipe in browser for pose detection
-  ↳ Firebase for client auth helpers (front-end SDK)
+<img width="798" height="477" alt="Screenshot 2025-09-07 162708" src="https://github.com/user-attachments/assets/df717d5c-140f-41db-a3d9-a4ee9c5986e3" />
 
-server/ (Node.js + Express + MongoDB)
-  ↳ JWT auth, user/task APIs
-  ↳ Mongoose models and validation
-```
 
 ---
 
@@ -213,6 +192,6 @@ Contributions are welcome! Feel free to open issues or PRs. Please keep code rea
 
 <div align="center">
 
-Built with ❤️, caffeine ☕, and lots of reps 🏋️ by the FitFlow.ai team.
+Built with ❤️, caffeine ☕, and lots of reps 🏋️ by the PixelForce team.
 
 </div>
